@@ -1,0 +1,7 @@
+#Fri Nov 08 16:26:46 IST 2019
+base.0=C\:\\Users\\Deepak\\Desktop\\MyTwitterProject\\Twitter App\\ParseStarterProject\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\Deepak\\Desktop\\MyTwitterProject\\Twitter App\\ParseStarterProject\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex

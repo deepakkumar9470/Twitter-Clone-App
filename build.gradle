@@ -1,0 +1,29 @@
+
+buildscript {
+    repositories {
+        maven {
+            url 'https://maven.google.com/'
+            name 'Google'}
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.5.2'
+    }
+}
+
+allprojects {
+    repositories {
+        maven {
+            url 'https://maven.google.com/'
+            name 'Google'}
+        jcenter()
+    }
+}
+
+ext {
+    compileSdkVersion = 28
+    buildToolsVersion = "23.0.1"
+
+    minSdkVersion = 14
+    targetSdkVersion = 23
+}
